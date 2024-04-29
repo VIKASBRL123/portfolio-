@@ -7,6 +7,9 @@
   font-weight: 500;
   font-style: normal;
 }
+.name{
+  background: linear-gradient(158deg, rgba(0,0,0,1) 0%, rgba(4,68,80,1) 47%, rgba(0,212,255,1) 100%); 
+}
 
 .main{
 
