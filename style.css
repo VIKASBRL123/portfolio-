@@ -35,3 +35,7 @@ transform: scale(
     1.2
 );
 }
+  .v{
+   font-family: "Montserrat", monospace;
+    font-size="100px"
+  }
