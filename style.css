@@ -1,4 +1,11 @@
+.sharma{
+    background-color: lightgrey;
+  width: 30%;
+  border: 10px solid green;
+  padding: 50px;
 
+    display:inline-block;
+}
 .vikas{font-family:"gill sans",sans-serif;
 }
 .font {
@@ -13,14 +20,7 @@
   font-size="5em";
   color="white";
 }
-.sharma{
-    background-color: lightgrey;
-  width: 30%;
-  border: 10px solid green;
-  padding: 50px;
 
-    display:inline-block;
-}
 
 .main{
   background-color: lightgrey;
