@@ -9,7 +9,7 @@
 }
 .sharma{
     background-color: lightgrey;
-  width: 30%;
+  width: 30vw;
   border: 10px solid green;
   padding: 50px;
 
@@ -18,7 +18,7 @@
 .main{
   background: linear-gradient(158deg, rgba(0,0,0,1) 0%, rgba(4,68,80,1) 47%, rgba(0,212,255,1) 100%); 
   color="white";
-  width: 70%;
+  width: 70vw;
   border: 10px solid green;
   padding: 50px;
     display:inline-block;
