@@ -11,24 +11,12 @@
 
     display:inline-block;
 }
-.vikas{font-family:"gill sans",sans-serif;
-}
-.font {
-  font-family: "Montserrat", monospace;
-  font-optical-sizing: auto;
-  font-weight: 500;
-  font-style: normal;
-}
-
-
 .main{
   background-color: lightgrey;
   width: 70%;
   border: 10px solid green;
   padding: 50px;
-
     display:inline-block;
-  
 }
 .icon{
     cursor: pointer;
