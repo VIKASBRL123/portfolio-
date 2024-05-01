@@ -15,6 +15,11 @@
 }
 
 .main{
+  background-color: lightgrey;
+  width: 300px;
+  border: 10px solid green;
+  padding: 50px;
+  margin: 20px;
     display:inline;
     background: rgb(0,0,0);
     background: linear-gradient(158deg, rgba(0,0,0,1) 0%, rgba(4,68,80,1) 47%, rgba(0,212,255,1) 100%);
