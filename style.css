@@ -31,4 +31,5 @@ transform: scale(
    font-family: "Montserrat", monospace;
     font-size="100vw";
      font-color="white";
+   display:block;
   }
