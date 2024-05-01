@@ -13,6 +13,14 @@
   font-size="5em";
   color="white";
 }
+.sharma{
+   background-color: lightgrey;
+   width: 300px;
+  border: 10px solid green;
+   padding: 50px;
+   margin: 10px;
+    display:inline;
+}
 
 .main{
   background-color: lightgrey;
