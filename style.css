@@ -12,8 +12,6 @@
   width: 30vw;
   border: 10px solid green;
   padding: 50px;
-
-    display:inline-block;
 }
 .main{
   background: linear-gradient(158deg, rgba(0,0,0,1) 0%, rgba(4,68,80,1) 47%, rgba(0,212,255,1) 100%); 
@@ -21,7 +19,6 @@
   width: 150px;
   border: 10px solid green;
   padding: 50px;
-    display:inline-block;
 }
 .icon{
     cursor: pointer;
@@ -36,5 +33,5 @@ transform: scale(
   .v{
    font-family: "Montserrat", monospace;
     font-size="100vw";
-    color="white";
+     font-color="white";
   }
